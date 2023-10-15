@@ -19,8 +19,7 @@
   },
   "license": "Apache-2.0",
   "author": "Henrique Doro <opensource@hdoro.dev>",
-  "publisher": "hdoro",
-  "type": "commonjs",
+  "publisher": "hdoro",  
   "exports": {
     ".": {
       "types": "./lib/src/index.d.ts",
